@@ -27,7 +27,7 @@ This project is a **React-based portfolio** for **Ashish Kumar Laheri**, contain
 ## 🛠️ Setup & Installation
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/portfolio-react.git
+git clone https://github.com/ashishlaheri/docker-compose-my-portfolio-app.git
 cd portfolio-react
 ```
 
