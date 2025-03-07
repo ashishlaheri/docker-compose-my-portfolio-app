@@ -65,7 +65,7 @@ http://localhost:3000
 
 ## 📧 Contact
 
-For any questions or issues, reach out to me at @laheriashish or connect on [LinkedIn](https://linkedin.com/in/ashishlaheri).
+For any questions or issues, reach out to me at @laheriashish or connect on [LinkedIn](https://linkedin.com/in/ashish-kumar-laheri).
 
 ---
 
